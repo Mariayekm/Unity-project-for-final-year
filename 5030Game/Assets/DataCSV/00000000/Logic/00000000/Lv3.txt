@@ -1,0 +1,5 @@
+TotalMoves,NumCorrectTiles,TotalTime,MoveTimeTaken
+0,0,0,2.46
+0,0,0,1.96
+0,0,0,5.46
+3,9,9.880335,0

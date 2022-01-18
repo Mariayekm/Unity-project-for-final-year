@@ -1,0 +1,1 @@
+NumCorrectSq,MinDist,MinMag,AvgDist,AvgMag
