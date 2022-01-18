@@ -1,2 +1,2 @@
 # Unity-project-for-final-year
-Part of my university final year project - a collaborative effort
+A colloaboration with another student for part of my university final year project.
